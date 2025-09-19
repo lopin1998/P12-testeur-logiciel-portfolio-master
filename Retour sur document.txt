@@ -1,0 +1,32 @@
+Retour sur document:
+
+REVUE D'EXIGENCE
+=> enlève la première ligne ce n'est que pour l'exemple, c'est pas très propre de la laisser
+=> TOM6 Exige un format de date JJ/MM/AAA
+=> TOM6 Le champ prénom doit être en texte pas en numérique
+=> TOM6 Quel mécanisme de complexité de mot de passe est placé (aujourd'hui 12 caractère et non 8)
+=> TOM6 Les champs sont tous obligatoire un message d'erreur est prévu dans ce cas ?
+=> TOM6 un champ de confirmation de mot serait mieux pour éviter les erreurs
+=> TOM6 pas d'indication sur le format attendu des données pour la BDD
+
+=> TOM10 Ligne 2 c'est l'inverse. Il faut un https au lieu d'un http
+=> TOM10 pas de système d'authtification ou quel est-il ?
+
+TOM10 et TOM6 sont attendus par les critères d'évaluation
+
+STRATEGIE DE TEST
+Pour la partie scénario prévu, il faut rentré dans le détails dans le document comme tu as fait dans notion
+Exemple type
+Scénario 4 : Le nom
+Objectif : Vérifier que ...
+Exigence associée : une phrase résumée
+Condition d’usage : 
+Criticité : 
+
+Methode de test
+AGILE est une méthode projet. Pas une méthode de stratégie de test
+Ici il faut que tu précise si tu fait des tests en Boite noire (fonctionnel), de l'exploratoire, voir de l'automatisé
+Quel test va dans quelle méthode
+
+
+Est-ce que tu prévois des environnements de test ?
