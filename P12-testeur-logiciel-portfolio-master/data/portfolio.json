@@ -2,25 +2,25 @@
     {
         "image": "image1.png",
         "title": "Booki",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "text": "Mon premier projet sur HTML et CSS Booki.",
         "link": "https://github.com/lopin1998/booki-starter-code-master.git"
     },
     {
         "image": "Sophie Bluel.png",
         "title": "Sophie Bluel",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "text": "Mon premier vrai gros projet JavaScript Sophie Bluel.",
         "link": "https://github.com/lopin1998/Moret_camille_7_Cr-er_une_page_web_dynamique_avec_javascript_01_25.git"
     },
     {
         "image": "image3.png",
         "title": "Kasa",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "text": "Premier porjet avec React pour bien comprendre la structure de React.",
         "link": "https://github.com/lopin1998/Moret_Camille_8_Creez_une_application_web_de_location_immobiliere_avec_React_022023.git"
     },
     {
         "image": "logo.png",
         "title": "Print it!",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "text": "Mais premier pas avec JavaScript Prin It!.",
         "link": "https://github.com/lopin1998/Print-it-JS-main.git"
     }
 ]

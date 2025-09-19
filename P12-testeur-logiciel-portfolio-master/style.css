@@ -36,7 +36,7 @@
     max-height: 900px;
     background: url("images/black.jpg");
     background-size: cover;
-    object-fit: cover;
+    background-position: center;
     position: relative;
 }
 /* text css above hero image*/
